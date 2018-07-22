@@ -1,3 +1,7 @@
+# 1.0.0 - 07/21/2018
+## Breaking Changes
+* [[8d95ab4](https://github.com/spothero/commitlint-config/commit/8d95ab4)] - Renamed package to @spothero/commitlint-config (Matt Przybylski)
+
 # 0.2.1 - 07/21/2018
 ## Miscellaneous Updates
 * [[264a5c4](https://github.com/spothero/commitlint-config/commit/264a5c4)] - `fix:` Upgrade version of @spothero/npm-publisher to remove internal dependency on this package (Matt Przybylski)
