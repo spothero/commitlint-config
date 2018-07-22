@@ -1,6 +1,6 @@
 {
-  "name": "@spothero/config-commitlint",
-  "version": "0.2.1",
+  "name": "@spothero/commitlint-config",
+  "version": "0.0.0",
   "description": "SpotHero's base Commitlint configuration.",
   "main": "index.js",
   "repository": "https://github.com/spothero/commitlint-config",
@@ -16,7 +16,7 @@
     "husky": "0.14.3"
   },
   "devDependencies": {
-    "@spothero/npm-publisher": "0.0.3"
+    "@spothero/npm-publisher": "0.0.4"
   },
   "engines": {
     "node": ">=10.3.0",

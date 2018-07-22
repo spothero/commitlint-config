@@ -1,15 +1,15 @@
-# @spothero/config-commitlint: SpotHero's Commitlint Configuration
+# @spothero/commitlint-config: SpotHero's Commitlint Configuration
 This module provides your project with an extendable base Commitlint configuration to help lint commit messages and ensure that a proper `CHANGELOG.md` file can be auto-generated, if necessary. Typically you'll want to use this in other modules that get published to Nexus.
 
 ## Installation
-`npm install @spothero/config-commitlint -D`
+`npm install @spothero/commitlint-config -D`
 
 ## Usage
 Create a `commitlint.config.js` file in your project's root and add the following:
 
 ```
 module.exports = {
-    extends: ['@spothero/config-commitlint']
+    extends: ['@spothero/commitlint-config']
 };
 
 ```
