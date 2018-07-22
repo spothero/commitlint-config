@@ -1,3 +1,11 @@
+# 0.2.1 - 07/21/2018
+## Miscellaneous Updates
+* [[264a5c4](https://github.com/spothero/commitlint-config/commit/264a5c4)] - `fix:` Upgrade version of @spothero/npm-publisher to remove internal dependency on this package (Matt Przybylski)
+* [[4e3bf40](https://github.com/spothero/commitlint-config/commit/4e3bf40)] - `fix:` Get correct version of @spothero/npm-publisher (Matt Przybylski)
+* [[2f32a77](https://github.com/spothero/commitlint-config/commit/2f32a77)] - `build:` Moved to being a public package and using @spothero/npm-publisher (Matt Przybylski)
+* [[0a2147e](https://github.com/spothero/commitlint-config/commit/0a2147e)] - `chore:` Moved package to public repository (Matt Przybylski)
+* [[b68e66b](https://github.com/spothero/commitlint-config/commit/b68e66b)] - Initial commit (Matt Przybylski)
+
 # 0.2.0 - 06/22/2018
 ## New Features
 * [[4ac05e3](https://github.com/spothero/fe-commitlint-config/commit/4ac05e3)] - Added type for bot publishing (Matt Przybylski)
