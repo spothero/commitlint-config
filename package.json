@@ -1,6 +1,6 @@
 {
   "name": "@spothero/config-commitlint",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SpotHero's base Commitlint configuration.",
   "main": "index.js",
   "repository": "https://github.com/spothero/commitlint-config",
