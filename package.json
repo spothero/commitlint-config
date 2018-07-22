@@ -16,7 +16,7 @@
     "husky": "0.14.3"
   },
   "devDependencies": {
-    "@spothero/npm-publisher": "0.0.4"
+    "@spothero/npm-publisher": "0.0.5"
   },
   "engines": {
     "node": ">=10.3.0",
