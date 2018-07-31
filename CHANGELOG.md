@@ -1,3 +1,9 @@
+# 1.1.0 - 07/31/2018
+## New Features
+* [[06b2f8f](https://github.com/spothero/commitlint-config/commit/06b2f8f)] - Disable header-max-length rule to allow better commits (Matt Przybylski)
+## Miscellaneous Updates
+* [[6f23bad](https://github.com/spothero/commitlint-config/commit/6f23bad)] - `chore:` Bumped @spothero/npm-publisher to latest (Matt Przybylski)
+
 # 1.0.0 - 07/21/2018
 ## Breaking Changes
 * [[8d95ab4](https://github.com/spothero/commitlint-config/commit/8d95ab4)] - Renamed package to @spothero/commitlint-config (Matt Przybylski)
