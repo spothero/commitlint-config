@@ -1,3 +1,9 @@
+# 1.1.1 - 08/28/2018
+
+## Miscellaneous Updates
+* [[0a794ad](https://github.com/spothero/commitlint-config/commit/0a794ad)] - `build:` Update to using newest npm-publisher for publishing to proper npm registry (Matt Przybylski)
+* [[0d8df92](https://github.com/spothero/commitlint-config/commit/0d8df92)] - `build:` Update to latest @spothero/npm-publisher and add unnecessary published files to .npmignore (Matt Przybylski)
+
 # 1.1.0 - 07/31/2018
 ## New Features
 * [[06b2f8f](https://github.com/spothero/commitlint-config/commit/06b2f8f)] - Disable header-max-length rule to allow better commits (Matt Przybylski)
