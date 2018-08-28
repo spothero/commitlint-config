@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "commitmsg": "commitlint -E GIT_PARAMS",
-    "release": "npm-release"
+    "release": "npm-release -- public"
   },
   "dependencies": {
     "@commitlint/cli": "7.0.0",
@@ -16,7 +16,7 @@
     "husky": "0.14.3"
   },
   "devDependencies": {
-    "@spothero/npm-publisher": "0.1.0"
+    "@spothero/npm-publisher": "1.0.0"
   },
   "engines": {
     "node": ">=10.3.0",
