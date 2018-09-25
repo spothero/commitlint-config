@@ -1,3 +1,7 @@
+# 1.2.0 - 09/25/2018
+## Dependency Updates
+* [[694f6af](https://github.com/spothero/commitlint-config/commit/694f6af)] - Updated dependencies to latest (Matt Przybylski)
+
 # 1.1.1 - 08/28/2018
 
 ## Miscellaneous Updates
