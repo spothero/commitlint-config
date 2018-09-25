@@ -11,12 +11,11 @@
     "release": "npm-release -- public"
   },
   "dependencies": {
-    "@commitlint/cli": "7.0.0",
-    "@commitlint/config-conventional": "7.0.1",
+    "@commitlint/cli": "7.1.2",
     "husky": "0.14.3"
   },
   "devDependencies": {
-    "@spothero/npm-publisher": "1.0.0"
+    "@spothero/npm-publisher": "2.0.0"
   },
   "engines": {
     "node": ">=10.3.0",
