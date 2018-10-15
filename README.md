@@ -7,17 +7,21 @@ This module provides your project with an extendable base Commitlint configurati
 ## Usage
 Create a `commitlint.config.js` file in your project's root and add the following:
 
-```
+```js
 module.exports = {
     extends: ['@spothero/commitlint-config']
 };
 
 ```
 
-Add the following script to your `package.json` `scripts` field:
+Add the following entry to your `package.json` file:
 
-```
-"commitmsg": "commitlint -E GIT_PARAMS"
+```js
+"husky": {
+  "hooks": {
+    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+  }
+}
 ```
 
 ## Commit Conventions
