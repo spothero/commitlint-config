@@ -1,3 +1,12 @@
+# 2.0.0 - 10/15/2018
+## Breaking Changes
+* [[4170a52](https://github.com/spothero/commitlint-config/commit/4170a52)] - Upgrade husky and use new husky field in package.json (Matt Przybylski)
+
+## Miscellaneous Updates
+* [[606c26b](https://github.com/spothero/commitlint-config/commit/606c26b)] - `docs:` Updated README with new format (Matt Przybylski)
+* [[e5ccd62](https://github.com/spothero/commitlint-config/commit/e5ccd62)] - `fix:` Upgrade commitlint to fix commit errors (Matt Przybylski)
+* [[cfd80ae](https://github.com/spothero/commitlint-config/commit/cfd80ae)] - 2.0.0 (Matt Przybylski)
+
 # 1.2.0 - 09/25/2018
 ## Dependency Updates
 * [[694f6af](https://github.com/spothero/commitlint-config/commit/694f6af)] - Updated dependencies to latest (Matt Przybylski)
