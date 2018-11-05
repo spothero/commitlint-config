@@ -1,3 +1,8 @@
+# 2.0.1 - 11/05/2018
+
+## Miscellaneous Updates
+* [[5275514](https://github.com/spothero/commitlint-config/commit/5275514)] - `chore:` Upgrade to latest dependencies (Matt Przybylski)
+
 # 2.0.0 - 10/15/2018
 ## Breaking Changes
 * [[4170a52](https://github.com/spothero/commitlint-config/commit/4170a52)] - Upgrade husky and use new husky field in package.json (Matt Przybylski)
