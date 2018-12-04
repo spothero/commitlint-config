@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/spothero/commitlint-config",
   "author": "SpotHero",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "release": "npm-release -- public"
   },
