@@ -1,3 +1,9 @@
+# 2.0.2 - 01/08/2019
+
+## Miscellaneous Updates
+* [[66d50e0](https://github.com/spothero/commitlint-config/commit/66d50e0)] - `chore:` Update to latest dependencies (Matt Przybylski)
+* [[cc4bff6](https://github.com/spothero/commitlint-config/commit/cc4bff6)] - `chore:` License under Apache 2.0 instead of MIT (Matt Przybylski)
+
 # 2.0.1 - 11/05/2018
 
 ## Miscellaneous Updates
