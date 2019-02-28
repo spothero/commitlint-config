@@ -1,3 +1,8 @@
+# 2.0.3 - 02/28/2019
+
+## Miscellaneous Updates
+* [[fac1474](https://github.com/spothero/commitlint-config/commit/fac1474)] - `chore:` Upgrade deps to latest (Matt Przybylski)
+
 # 2.0.2 - 01/08/2019
 
 ## Miscellaneous Updates
