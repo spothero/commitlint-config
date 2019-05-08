@@ -1,3 +1,9 @@
+# 2.0.4 - 05/08/2019
+
+## Miscellaneous Updates
+* [[2b4d15a](https://github.com/spothero/commitlint-config/commit/2b4d15a)] - `fix:` Upgrade commitlint CLI to fix version mismatch which caused commits not being possible without overrides (Matt Przybylski)
+* [[f418189](https://github.com/spothero/commitlint-config/commit/f418189)] - `chore:` Update devDependencies (Matt Przybylski)
+
 # 2.0.3 - 02/28/2019
 
 ## Miscellaneous Updates
