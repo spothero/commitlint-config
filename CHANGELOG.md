@@ -1,3 +1,7 @@
+# 2.1.0 - 06/17/2019
+## Dependency Updates
+* [[8df41f2](https://github.com/spothero/commitlint-config/commit/8df41f2)] - Upgrade dependencies (includes Axios security update), add Codeowners file (boiarqin)
+
 # 2.0.4 - 05/08/2019
 
 ## Miscellaneous Updates
