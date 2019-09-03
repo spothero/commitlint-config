@@ -1,3 +1,8 @@
+# 2.1.2 - 09/03/2019
+
+## Miscellaneous Updates
+* [[75dcd02](https://github.com/spothero/commitlint-config/commit/75dcd02)] - `chore:` Update to latest dependencies and remove .github directory from published module (Matt Przybylski)
+
 # 2.1.1 - 07/05/2019
 
 ## Miscellaneous Updates
