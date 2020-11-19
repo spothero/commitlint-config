@@ -1,4 +1,4 @@
-# 2.2.0-beta.0 - 11/19/2020
+# 2.2.0 - 11/19/2020
 ## Dependency Updates
-* [[9d3e798](https://github.com/spothero/commitlint-config/commit/9d3e798)] - Upgrade npm-publisher (Boiar Qin)
+* [[62e1a53](https://github.com/spothero/commitlint-config/commit/62e1a53)] - Upgrade npm-publisher ([#2](https://github.com/spothero/commitlint-config/pull/2)) (Boiar Qin)
 
