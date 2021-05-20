@@ -1,3 +1,12 @@
+# 2.3.0 - 05/20/2021
+## Dependency Updates
+* [[26cc382](https://github.com/spothero/commitlint-config/commit/26cc382)] - Update npm-publisher dependency ([#6](https://github.com/spothero/commitlint-config/pull/6)) (Eddie Padin)
+
+## Miscellaneous Updates
+* [[474e889](https://github.com/spothero/commitlint-config/commit/474e889)] - `chore:` Add CHANGELOG.tmp to gitignore (Boiar Qin)
+* [[62f2ba2](https://github.com/spothero/commitlint-config/commit/62f2ba2)] - OCP-969 rename default branch ([#5](https://github.com/spothero/commitlint-config/pull/5)) (Eddie Padin)
+	* `docs:` update readme to reflect the branch rename from master to main
+
 # 2.2.0 - 11/19/2020
 ## Dependency Updates
 * [[62e1a53](https://github.com/spothero/commitlint-config/commit/62e1a53)] - Upgrade npm-publisher ([#2](https://github.com/spothero/commitlint-config/pull/2)) (Boiar Qin)
