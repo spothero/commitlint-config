@@ -1,3 +1,9 @@
+# 2.4.0 - 06/08/2021
+
+## Dependency Updates
+* [[2b347bb](https://github.com/spothero/commitlint-config/commit/2b347bb)] - Update node version to active 12.13.0 ([#9](https://github.com/spothero/commitlint-config/pull/9)) (Gru Singh)
+* [[173ca16](https://github.com/spothero/commitlint-config/commit/173ca16)] - Update @commitlint/cli dependency ([#8](https://github.com/spothero/commitlint-config/pull/8)) (Gru Singh)
+
 # 2.3.0 - 05/20/2021
 ## Dependency Updates
 * [[26cc382](https://github.com/spothero/commitlint-config/commit/26cc382)] - Update npm-publisher dependency ([#6](https://github.com/spothero/commitlint-config/pull/6)) (Eddie Padin)
