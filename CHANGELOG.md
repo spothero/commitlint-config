@@ -1,3 +1,8 @@
+# 2.5.0 - 06/16/2021
+
+## Dependency Updates
+* [[1168f5c](https://github.com/spothero/commitlint-config/commit/1168f5c)] - Update npm deps to fix high security issues ([#10](https://github.com/spothero/commitlint-config/pull/10)) (Gru Singh)
+
 # 2.4.0 - 06/08/2021
 
 ## Dependency Updates
